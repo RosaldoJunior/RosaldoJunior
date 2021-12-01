@@ -1,0 +1,251 @@
+*{
+	margin: 0;
+	padding:0;
+}
+
+body {
+	background-image: url(fundo.png);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover; 
+	font-family: "Times New Roman", Times, serif;
+	font-size: 1em;
+
+}
+.head {
+	padding: 20px;
+	background-image: url("capa.png");
+	background-position: center;
+	background-size: cover; 
+	text-align: center;
+}
+
+.nome-jogos {
+	color:black;
+	margin: 10px 20px;
+	font-size: 14px;
+	
+}
+.nome-times {
+	font-size: 21px;
+	font-weight: bold;
+
+}
+
+
+#p-clube{
+	width: 70%;
+	margin: 0px 190px;
+}
+#clube-historia{
+	text-align: justify;
+	background: white;
+	width: 100%;
+	margin: 200px 0px;
+	height: 600px;
+	padding: 80px 0px;
+}
+
+#jogos{
+	text-align: center;
+	background:white;
+	width: 100%;
+	margin: 200px 0px;
+	height: 800px;
+	padding: 80px 0px;
+}
+#box-jogos{
+	text-align: center;
+
+}
+
+.head-menu{
+	background: white;
+	padding: 10px
+}
+#h1-news{
+	background: white;
+	color:black;
+}
+
+#logo-jogos{
+	margin: 10px 0px;
+	display: inline-block;
+	text-align: center;
+}
+
+#h1-jogos{
+
+	color:black;
+	margin: 30px;
+	text-align: center;
+}
+#h1-clube{
+	background: white;
+	color:black;
+	margin: 30px;
+}
+
+.news-float{
+	padding: 20px 70px;
+	width: 290px;
+	display: inline-block;
+	text-align: left;
+	border: 1px solid white;
+	margin-bottom: 20px;
+	height: 320px;
+
+}
+#float {
+	text-align: center;
+	width: 100%;
+	margin-top: 50px;
+    background-image: url("capa.png");
+	background-position: center;
+	background-size: cover; 
+	text-align: center;
+	color: white;
+}
+
+
+.imagem-news{
+	padding: 0px 70px;
+	width: 290px;
+	display: inline-block;
+	margin-top: 40px;
+	margin-bottom: 10px;
+	
+	
+}
+
+#clear {
+	clear: both;
+}
+
+#menus {
+	text-align: center;
+	font-size: 1.5em;
+	padding: 10px;
+ }
+
+ #logos-social {
+ 	padding: 25px;
+ }
+
+
+ #logo-img{
+ 	padding: 15px;
+
+ }
+ h1 { text-align: center;
+ 	  color: white;
+ 	  font-size: 2em;
+ 	  padding: 10px 20px;
+ 	  margin-bottom: 50px;
+
+
+
+ }
+
+.news{
+	padding-top: 60px;
+	padding-bottom: 150px;
+}
+
+ #news1{
+ 	padding: 10px 0px;
+ 	text-align:center;
+ 	background-image: url(capa-news.png);
+ 	background-size: cover;
+ 	background-position: center;
+ 	color: white;
+ }
+#h2{
+	padding: 10px ;
+ 	font-weight: bold;
+ 	margin: 10px;
+ 	text-align: center;
+}
+
+ h2{
+ 	padding: 10px ;
+ 	font-weight: bold;
+ 	margin: 10px;
+ 	text-align: left;
+
+ }
+ .p-news{
+ 	margin: 10px;
+ }
+
+ #subtitulo {
+ 	font-style: italic;
+ 	padding: 20px;
+ 	padding-top: 0px;
+ 	margin-top: 0px;
+ 	margin-bottom: 20px;
+ }
+
+#box-form{
+	padding: 10px 0px;
+ 	text-align:center;
+ 	background-image: url(capa-news.png);
+ 	background-size: cover;
+ 	background-position: center;
+ 	color: white;
+ 	margin-top: 300px;
+ }
+
+#box-social{
+	padding-bottom: 30px;
+}
+#logos-social{
+	
+	margin: 0px 50px;
+
+}
+
+form {
+	padding: 10px
+	}
+
+a{
+	text-decoration: none;
+	font-weight: normal;
+
+}
+a:link, a:visited {
+	color: black;
+	padding: 8px 12px;
+}
+a:hover {
+	color: #B40404;
+}
+
+
+/*pagina-elenco*/ 
+
+#jogadores-imagem { 
+	display: inline-block;
+	text-align: center;
+}
+
+.jogadores-box{
+	display: inline-block;
+	margin: 10px;
+
+}
+.p-jogador{
+	text-align: left;
+}
+.div-jogador{
+	width: 300px;
+	height: 400px;
+	text-align: justify;
+	background-image: url(fundo-news.png);
+	background-position: auto;
+	margin: 50px;
+	background-repeat: no-repeat;
+	color: white;
+}
